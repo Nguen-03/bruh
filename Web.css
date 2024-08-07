@@ -1,0 +1,26 @@
+body{
+    font-size: 50px;
+}
+
+#pic_click{
+    
+    position: absolute;
+    left: 40%;
+    right: 30%;
+    top: 20%;
+    bottom: 70%;
+}
+#pic{
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    left: 30%;
+    right: 40%;
+}
+.glyphicon{
+    position: absolute;
+    left: 45%;
+    right: 55%;
+    top: 30%;
+    font-size: 100px;
+}

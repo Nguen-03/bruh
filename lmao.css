@@ -1,0 +1,12 @@
+.lmao{
+    font-size: 50px;
+    position: relative;
+    text-align: center;
+}
+.pic{
+    height: 300px;;
+    width: 300px;
+    position: relative;
+    left: 40%;
+    right: 40%;
+}
