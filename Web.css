@@ -1,20 +1,24 @@
 body{
-    font-size: 50px;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 #pic_click{
-    
+    border: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    padding: 10px;
     position: absolute;
-    left: 40%;
+    left: 15%;
     right: 30%;
-    top: 20%;
+    top: 10%;
     bottom: 70%;
 }
 #pic{
     position: absolute;
     top: 50%;
     bottom: 50%;
-    left: 30%;
+    left: 20%;
     right: 40%;
 }
 .glyphicon{

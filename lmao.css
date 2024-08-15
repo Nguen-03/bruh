@@ -1,4 +1,17 @@
-
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 150px;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: absolute;
+    background-size: cover;
+    
+}
+#bruh{
+    position: absolute;
+    left: 25%;
+    right: 40%;
+}
 .lmao{
     font-size: 50px;
     position: relative;
